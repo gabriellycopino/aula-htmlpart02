@@ -1,0 +1,10 @@
+h1{
+    border-top: 5px solid palevioletred;
+    border-right: 10px solid purple;
+    border-bottom: 5px solid plum;
+border-left:5px double rgb(50, 3, 94) ;
+}    
+h2{
+    border: 5px solid brown;
+    border-right: 3px;
+}

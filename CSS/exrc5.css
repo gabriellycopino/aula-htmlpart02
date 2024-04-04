@@ -1,0 +1,22 @@
+body{
+    background-color: oldlace;
+}
+h1{
+    text-shadow: 5px 5px 5px blue;
+    text-align: center;
+}
+p{
+    line-height: 200%;
+    font-family:"playfair display", serif ;
+}
+h2.class2{
+    color: blueviolet;
+}
+p.justify{
+    font-size: 20px;
+    text-align: justify;
+}
+span{
+    color: deeppink;
+    font-style: italic;
+}
