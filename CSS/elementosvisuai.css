@@ -1,0 +1,12 @@
+body{
+    background-image:url(/RIRI.jpg);
+    background-image: url(/escena-do-dia-da-educacao-em-estilo-de-fantasia-e-estetica_23-2151040235.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  color: white;
+}
+
+
+section{
+    height: 60vh;
+}

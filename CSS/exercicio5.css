@@ -1,0 +1,14 @@
+body{
+    background-image: url(/359b2692beca677b335a0031cfcae66c.jpg);  
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+article{
+    height: 100vh;
+}
+p{
+    text-align: justify;
+    line-height: 200%;
+}

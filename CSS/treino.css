@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    margin-left: 3px;
+    margin-bottom: 4px;
+    color: aliceblue;
+
+}
+.box1{
+    height: 100vh;
+  
+    background-color: brown;
+    border: 1px solid rgb(62, 24, 7);
+    
+}
+.box2{
+    height: 100vh;
+    background-color: green;
+    border: 1px solid black;
+}
